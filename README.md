@@ -4,25 +4,25 @@
   <img src="https://readme-typing-svg.herokuapp.com?color=00F7FF&center=true&vCenter=true&width=650&lines=BSIS+Student;Aspiring+System+Developer;Video+Editor;Genshin+Impact+%26+Mobile+Legends+Player;Davao+del+Norte+State+College" />
 </p>
 
-# 👋 Hi there, I'm M Jayross L. Cruspero
-
-Welcome to my GitHub! I'm a 2nd-year Bachelor of Science in Information Systems (BSIS) student from Panabo City, Davao del Norte, studying at Davao del Norte State College. I am passionate about technology, system development, video editing, and continuous learning.
-
-## 💫 About Me
-
-Hello! My name is **M Jayross L. Cruspero**, also known as **Kambe**.
-
-I am currently pursuing a degree in Information Systems at Davao del Norte State College. I enjoy learning about software development, databases, and information systems while continuously improving my technical skills.
-
-As a student, I have worked on academic projects involving Java, MySQL, and system development. I enjoy creating applications that solve real-world problems and improve user experiences.
-
-Aside from programming, I am passionate about video editing, photography, and gaming. I regularly play Genshin Impact and Mobile Legends and enjoy expressing creativity through digital content creation.
-
-My goal is to become a skilled IT professional capable of developing innovative and useful systems that make a positive impact.
+<h3 align="center">🎓 BSIS Student | 💻 Aspiring System Developer | 🎬 Video Editor | 🎮 Gamer</h3>
 
 ---
 
-## 🚀 Projects
+## 👨‍💻 About Me
+
+Hello! I'm **M Jayross L. Cruspero**, also known as **Kambe**.
+
+I'm a **2nd-Year Bachelor of Science in Information Systems (BSIS) student** at **Davao del Norte State College** from **Panabo City, Davao del Norte, Philippines**.
+
+I am passionate about technology, system development, and creative digital work. I enjoy learning new skills, developing academic projects, editing videos, and exploring innovative technologies.
+
+Beyond academics, I enjoy photography, drawing, and gaming. I regularly play **Genshin Impact** and **Mobile Legends**, and I enjoy expressing creativity through digital content creation.
+
+My goal is to continuously improve my technical and creative skills while working toward becoming a successful IT professional.
+
+---
+
+## 🚀 Featured Projects
 
 ### 💆 Sebo Massage Booking System
 
@@ -34,18 +34,16 @@ A portfolio website showcasing photography projects, compositions, and creative 
 
 ### 💻 Academic System Projects
 
-Various Java and database-driven applications developed during my BSIS studies.
+Various Java-based projects and system applications developed throughout my BSIS journey.
 
 ---
 
 ## 🛠️ Skills
 
-* Java Programming
-* Video Editing
-* Problem Solving
-* Drawing
-
-
+* ☕ Java Programming
+* 🎬 Video Editing
+* 🎨 Drawing & Creativity
+* 🧩 Problem Solving
 
 ---
 
@@ -60,21 +58,24 @@ Various Java and database-driven applications developed during my BSIS studies.
 
 ## 🎯 Interests
 
-* System Development
-* Video Editing
-* Photography
-* Genshin Impact
-* Mobile Legends
+* 💻 System Development
+* 🎬 Video Editing
+* 📸 Photography
+* 🎨 Drawing
+* 🎮 Genshin Impact
+* 🎮 Mobile Legends
 
 ---
 
-## 📫 Contact Me
+## 📫 Connect With Me
 
-* 👤 Facebook: https://www.facebook.com/mjay.cruspero.7/ 
+* 📘 Facebook: https://www.facebook.com/mjay.cruspero.7/
+* 💼 LinkedIn: http://www.linkedin.com/in/m-jayross-cruspero-41b873367
+* 🌐 Portfolio: https://sites.google.com/view/m-jayross-portfolio
 * 📍 Panabo City, Davao del Norte, Philippines
 
 ---
 
-### 🚀 Motto
+## 🚀 Motto
 
-> "Learn, Build, Improve, Repeat."
+> **"Learn, Build, Improve, Repeat."**
