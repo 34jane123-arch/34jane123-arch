@@ -32,10 +32,6 @@ A Java Swing and MySQL-based appointment booking system designed to manage custo
 
 A portfolio website showcasing photography projects, compositions, and creative works.
 
-### 💻 Academic System Projects
-
-Various Java-based projects and system applications developed throughout my BSIS journey.
-
 ---
 
 ## 🛠️ Skills
