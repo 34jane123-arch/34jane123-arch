@@ -16,9 +16,9 @@ I'm a **2nd-Year Bachelor of Science in Information Systems (BSIS) student** at 
 
 I am passionate about technology, system development, and creative digital work. I enjoy learning new skills, developing academic projects, editing videos, and exploring innovative technologies.
 
-Beyond academics, I enjoy photography, drawing, and gaming. I regularly play **Genshin Impact** and **Mobile Legends**, and I enjoy expressing creativity through digital content creation.
+Beyond academics, I enjoy drawing, and gaming. I regularly play **Genshin Impact** and **Mobile Legends**, and I enjoy expressing creativity through digital content creation.
 
-My goal is to continuously improve my technical and creative skills while working toward becoming a successful IT professional.
+My goal is to continuously improve my technical and creative skills while working toward becoming a successful IS professional.
 
 ---
 
